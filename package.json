@@ -2,6 +2,12 @@
   "name": "rwinner",
   "packageManager": "yarn@3.3.0",
   "main": "src/index.js",
+  "author" : {
+    "name": "Luv Makin",
+    "email": "luvmakin01@gmail.com",
+    "url": "https://luv-sage.vercel.app",
+    "aka": "@pandacover:
+  }
   "dependencies": {
     "express": "^4.18.2",
     "sass": "^1.56.2"
