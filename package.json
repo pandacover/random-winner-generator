@@ -6,7 +6,7 @@
     "name": "Luv Makin",
     "email": "luvmakin01@gmail.com",
     "url": "https://luv-sage.vercel.app",
-    "aka": "@pandacover:
+    "aka": "@pandacover"
   }
   "dependencies": {
     "express": "^4.18.2",
